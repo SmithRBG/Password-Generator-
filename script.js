@@ -104,7 +104,6 @@ function generatePassword() {
   //var upper = confirm("Do you want Upper Case letters?");
   //var num = confirm("Do you want numbers?");
   //var special = confirm("Do you want special characters?");
-if ()
 
 
   for (i= 0; i<passwordLength; i++) {
